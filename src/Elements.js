@@ -1,7 +1,8 @@
 import React, { useState, useEffect, useRef } from "react";
+import './Elements.css'
 
-function About() {
-  const [isShown, setIsShown] = useState(true);
+function Elements() {
+  const [isShown, setIsShown] = useState(false);
   const [time, setTime] = useState({
     seconds: 0,
     minutes: 0,
@@ -9,11 +10,12 @@ function About() {
   });
 
   const funRef = useRef(null);
+  const component = 'component'
 
   useEffect(() => {
     let isCancelled = false;
 
-                  {
+    if (isShown) {
       funRef.current = setInterval(() => {
         let nSeconds = time.seconds;
         let nMinutes = time.minutes;
@@ -41,11 +43,19 @@ function About() {
     return () => {
       //final time:
       console.log(time);
+      console.log(component);
       isCancelled = true;
     };
-  }, [time]);
+  }, [isShown, time]);
   return (
     <div className="App">
+      <button
+        onMouseEnter={() => setIsShown(true)}
+        onMouseLeave={() => setIsShown(false)}
+      >
+        Hover over me!
+      </button>
+      {isShown && (
         <div>
           <p>
             {`
@@ -55,8 +65,9 @@ function About() {
           `}
           </p>
         </div>
+      )}
     </div>
   );
 }
 
-export default About;
+export default Elements;
