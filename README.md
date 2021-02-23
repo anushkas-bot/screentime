@@ -68,11 +68,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 # reactcharts
 
+![image](https://drive.google.com/uc?export=view&id=1tWuY9AKAydoNKiiJBGPM4dsJmZGtjQkO)
+![image](https://drive.google.com/uc?export=view&id=1c_pY1cGdx4aix2oVCh0JQilWrtCh5teo)
+![image](https://drive.google.com/uc?export=view&id=1UoAqpLkYBlCtuhMd7uYriR0RBJ5B5MMv)
 
-<img width="1440" alt="Screenshot 2020-10-14 at 11 08 10 AM" src="https://user-images.githubusercontent.com/69840382/95948403-20598200-0e0e-11eb-9c0a-2a7b4a056ee9.png">
-<img width="1440" alt="Screenshot 2020-10-14 at 11 09 34 AM" src="https://user-images.githubusercontent.com/69840382/95948413-22bbdc00-0e0e-11eb-8844-cf5c55efa895.png">
-<img width="1440" alt="Screenshot 2020-10-14 at 11 09 48 AM" src="https://user-images.githubusercontent.com/69840382/95948433-294a5380-0e0e-11eb-8c70-65220ecfba0b.png">
-<img width="1440" alt="Screenshot 2020-10-14 at 11 10 00 AM" src="https://user-images.githubusercontent.com/69840382/95948458-32d3bb80-0e0e-11eb-8ef3-51912c868e99.png">
-<img width="1440" alt="Screenshot 2020-10-14 at 11 10 18 AM" src="https://user-images.githubusercontent.com/69840382/95948471-36ffd900-0e0e-11eb-88c9-cb9bed3c5eb9.png">
-<img width="1440" alt="Screenshot 2020-10-14 at 11 10 40 AM" src="https://user-images.githubusercontent.com/69840382/95948479-3bc48d00-0e0e-11eb-86b0-c7e4e5d6ec4b.png">
-<img width="1440" alt="Screenshot 2020-10-14 at 11 10 54 AM" src="https://user-images.githubusercontent.com/69840382/95948494-441cc800-0e0e-11eb-8d09-286645e6db58.png">
