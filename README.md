@@ -69,6 +69,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 # reactcharts
 
 ![image](https://drive.google.com/uc?export=view&id=1tWuY9AKAydoNKiiJBGPM4dsJmZGtjQkO)
-![image](https://drive.google.com/uc?export=view&id=1c_pY1cGdx4aix2oVCh0JQilWrtCh5teo)
 ![image](https://drive.google.com/uc?export=view&id=1UoAqpLkYBlCtuhMd7uYriR0RBJ5B5MMv)
+![image](https://drive.google.com/uc?export=view&id=14x06e0LqnNMz--n5sx6tojrUGJSRbyV-)
 
